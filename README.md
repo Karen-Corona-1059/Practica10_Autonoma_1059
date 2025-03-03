@@ -1,7 +1,8 @@
 # myapp
 
 ## PRACTICA 10 AUTONOMA
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/36c8a270-04bf-4721-a60c-b8684b8f0b25)
+
 A new Flutter project.
 
 ## Getting Started
